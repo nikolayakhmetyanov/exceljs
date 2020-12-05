@@ -1,0 +1,26 @@
+{
+  "name": "exceljs",
+  "version": "1.0.0",
+  "description": "Pure JS Excel App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolayakhmetyanov/exceljs.git"
+  },
+  "author": "Nikolay Akhmetyanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolayakhmetyanov/exceljs/issues"
+  },
+  "homepage": "https://github.com/nikolayakhmetyanov/exceljs#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
